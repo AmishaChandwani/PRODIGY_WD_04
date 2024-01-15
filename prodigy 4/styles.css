@@ -1,0 +1,38 @@
+body {
+    background-image: url("back.jpg");
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    border-radius: 50%;
+    max-width: 150px;
+}
+
+section {
+    margin: 40px 0;
+}
+
+h2 {
+    color: #020202;
+}
+
+h3 {
+    color: #000000;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
